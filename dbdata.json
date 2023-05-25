@@ -1,0 +1,4 @@
+[
+    { "table_name": "agency_agencyno_seq", "count": 2003 },
+    { "table_name": "alarms_alno_seq", "count": 1 }
+]
